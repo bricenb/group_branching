@@ -1,5 +1,6 @@
 # group_branching
-Bricen One
 jackson One
-thomas One
+jackson Two
+Bricen One
 Bricen Two
+Thomas One
